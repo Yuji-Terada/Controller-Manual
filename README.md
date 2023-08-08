@@ -1,2 +1,2 @@
-# TJ3B Core Controller Manual
-### 2024 Ver.
+# ToinScienceClub Controller 2024Ver. Manual
+
