@@ -1,2 +1,2 @@
-# ToinScienceClub Controller 2024Ver. Manual
+# ToinScienceClub Controller 2024Ver. マニュアル
 
