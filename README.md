@@ -2,10 +2,10 @@
 ## 必要部品一覧
 
 - コネクタ
-  - 01x02 オスピン サイド型：1コ
-  - 01x03 オスピン トップ型：20コ
-  - 01x04 オスピン トップ型：2コ
-  - 01x05 オスピン トップ型：2コ
+  - [01x02 オスピン サイド型](https://akizukidenshi.com/catalog/g/gC-12262/)：1コ
+  - [01x03 オスピン トップ型](https://akizukidenshi.com/catalog/g/gC-12248/)：20コ
+  - [01x04 オスピン トップ型](https://akizukidenshi.com/catalog/g/gC-12249/)：2コ
+  - [01x05 オスピン トップ型](https://akizukidenshi.com/catalog/g/gC-12250/)：2コ
 
 - CPU関連部品
   - TJ3B Loader 2620 Ver 1.00 or Ver 2.00：2コ
