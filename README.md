@@ -9,17 +9,17 @@
 
 - CPU関連部品
   - TJ3B Loader 2620 Ver 1.00 or Ver 2.00：2コ
-  - 28ピンソケット 300milタイプ：2コ
+  - [28ピンソケット 300milタイプ](https://akizukidenshi.com/catalog/g/gP-00013/)：2コ
 
 - ボタン・LED
-  - タクトスイッチ（TVBP06-B043C）：4コ
-  - チップLED（SML-E12）：4コ
+  - [タクトスイッチ（色は各自選択）](https://akizukidenshi.com/catalog/g/gP-08074/)：4コ
+  - [チップLED（色は各自選択）](https://akizukidenshi.com/catalog/g/gI-11882)：4コ
 
 - 抵抗器
-  - 1/4W 330Ω スルーホール：4コ
-  - 1/4W 10KΩ スルーホール：12コ
-  - 1/4W 100KΩ スルーホール：20コ
+  - [1/4W 330Ω スルーホール](https://akizukidenshi.com/catalog/g/gR-25331/)：4コ
+  - [1/4W 10KΩ スルーホール](https://akizukidenshi.com/catalog/g/gR-25103/)：12コ
+  - [1/4W 100KΩ スルーホール](https://akizukidenshi.com/catalog/g/gR-25104/)：20コ
 
 - コンデンサ・フェライトビーズ
-  - チップセラミックコンデンサ 0.1µF 50V 1608：6コ
-  - チップインダクタ（フェライトビーズ） 120Ω 1608：4コ
+  - [チップセラミックコンデンサ 0.1µF 50V 1608](https://akizukidenshi.com/catalog/g/gP-13374/)：6コ
+  - [チップインダクタ (フェライトビーズ) 120Ω 1608](https://akizukidenshi.com/catalog/g/gP-04445/)：4コ
